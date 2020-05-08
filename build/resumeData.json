@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name":"Rima Odolski",
+    "occupation":"Application Support Analyst",
+    "description":"I am a certified full stack Web Developer recently graduated from the coding bootcamp at The University of Texas at Austin. My love for web development stems from working for SaaS companies for the past five years. Having been the one onboarding and assisting users with their product inquiries, I now want to start the endeavour of being the one that builds applications.",
+    "image":"profilepic.jpg",
+    "bio":"Mom, Traveler, Technophile.",
+    "contactmessage":"I would love to connect with you!",
+    "email": "rima.odolski@gmail.com",
+    "resumedownload":"rimaodolski.github.io",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rimaodolski/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/rimaodolski",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"The university of Austin at Texas",
+        "degree":"Full Stack Web Development Bootcamp",
+        "graduated":"May 2020"
+      }
+    ],
+    "work":[
+      {
+        "company":"Geotab",
+        "title":"Technical Support Specilaist ",
+        "years":"October 2018 - September 2020"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"750%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Casa Cocktails",
+        "category":" An app that creates your cocktail menu based on ingredients you have at home.",
+        "image":"asacocktails.jpg",
+        "url":"https://github.com/RimaOdolski/Casa-Cocktail"
+      },
+      {
+        "title":"Find My Pet",
+        "category":"An app that allowes pet owners to browse or post their lost pets",
+        "image":"findmypet.jpg",
+        "url":"https://github.com/RimaOdolski/Pet-Finder"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"A weather Dashboard that shows current weather in your city",
+        "image":"weather.jpg",
+        "url":"https://github.com/RimaOdolski/WeatherDashboard"
+      },
+      {
+        "title":"Day Planner",
+        "category":"Javascript Day Planner",
+        "image":"planner.jpg",
+        "url":"https://github.com/RimaOdolski/Day-Planner"
+      },
+      {
+        "title":"Burgers",
+        "category":"A fun app to create virtual burgers",
+        "image":"burger.jpg",
+        "url":"https://github.com/RimaOdolski/Burgers"
+      },
+      {
+        "title":"Employee Directory",
+        "category":"A React employee directory",
+        "image":"smirkspace.jpg",
+        "url":"https://github.com/RimaOdolski/React-Employee-Directory-"
+      }
+    ]
+  }
+
+}
